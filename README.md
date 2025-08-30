@@ -4,6 +4,7 @@ I am a passionate Python developer with a B.Tech in Software Engineering, driven
 
 ![Eyongkevin's Stats](https://github-readme-stats.vercel.app/api?username=Eyongkevin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Visitors](https://komarev.com/ghpvc/?username=Eyongkevin)
 ## 🚀 About Me
 
 - 🖥 Python Developer and Tech Entrepreneur
