@@ -14,7 +14,7 @@ I am a passionate Python developer with a B.Tech in Software Engineering, driven
 
 ## Currently Working On
 - 🖥 Developing a custom Point-of-Sale (POS) system that powers my cold store business. This solution has significantly improved salesperson productivity and enabled better, data-driven decision-making in day-to-day operations.
-- Running my YouTube channel @ Code With Enow, where I build and share full programming projects—from design and coding to testing and hosting.
+- 💪 Running my YouTube channel @ Code With Enow, where I build and share full programming projects—from design and coding to testing and hosting.
 - ✍️ Writing technical content on [Medium](https://medium.com/%40tonyparkerkenz), where one of my most popular articles is [Best Practices for Structuring a Django Project](https://medium.com/itnext/best-practices-for-structuring-a-django-project-23b8c1181e3f)
 
 ## Projects
