@@ -1,6 +1,6 @@
 # Hi, I'm Eyong Kevin Enowanyo! 👋
 
-I am a passionate Python developer with a B.Tech in Software Engineering, driven by a curiosity for learning, building, solving real-world problems, and teaching others
+I am a passionate Backend Engineer | Python, FastAPI, Django | Building scalable systems & real-world applications with a B.Tech in Software Engineering, driven by a curiosity for learning, building, solving real-world problems, and teaching others
 
 ![Eyongkevin's Stats](https://github-readme-stats.vercel.app/api?username=Eyongkevin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -10,17 +10,21 @@ I am a passionate Python developer with a B.Tech in Software Engineering, driven
 - 🖥 Python Developer and Tech Entrepreneur
 - 🖥 YouTube Educator @ Code With Enow
 - 🎓 B.Tech in Software Engineering at the University of Buea/College of Technology, 2011 batch.
-- 🌐 Proud member of the [ITNEXT platform for IT developers & software engineer](https://itnext.io/), contributing to the tech community.
+- 🌐 Proud member of the [ITNEXT platform for IT developers & software engineer](https://itnext.io/), contributing to the tech community, where one of my most popular articles is [Best Practices for Structuring a Django Project](https://medium.com/itnext/best-practices-for-structuring-a-django-project-23b8c1181e3f)
 
 ## Currently Working On
+- ⛪📖 Ekklesia, a Telegram-based platform that connects churches with their members through features such as event scheduling, announcements, and prayer request management, built using FastAPI and modern backend technologies
 - 🖥 Developing a custom Point-of-Sale (POS) system that powers my cold store business. This solution has significantly improved salesperson productivity and enabled better, data-driven decision-making in day-to-day operations.
-- 💪 Running my YouTube channel @ Code With Enow, where I build and share full programming projects—from design and coding to testing and hosting.
-- ✍️ Writing technical content on [Medium](https://medium.com/%40tonyparkerkenz), where one of my most popular articles is [Best Practices for Structuring a Django Project](https://medium.com/itnext/best-practices-for-structuring-a-django-project-23b8c1181e3f)
+- 💪 Running my YouTube channel @ Code With Enow, where I
+  - Build and share full programming projects—from design and coding to testing and hosting.
+  - Show how Data Structure and Algorithms can be used in real-world projects.
 
 ## Projects
-- [Django Boilerplate](https://github.com/Eyongkevin/django-boilerplate)
+- [Ekklesia](https://github.com/Eyongkevin/Ekklesia)
+- [Entak POS](https://github.com/Eyongkevin/entak-cold-store-pos)
+- [Remind Me App](https://github.com/Eyongkevin/remind-me-app)
 - [Blog MyTricksnTips](https://github.com/Eyongkevin/TricksTips-blog)
-- [Remind Me App](https://github.com/Eyongkevin/remindme-app)
+- [Django Boilerplate](https://github.com/Eyongkevin/django-boilerplate)
 - [PC Battery Detector](https://github.com/Eyongkevin/PC-Battery-Detector)
 - [e note](https://github.com/Eyongkevin/e-note)
 
@@ -37,7 +41,7 @@ I am a passionate Python developer with a B.Tech in Software Engineering, driven
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development and Data Science at ALX Africa
+- 🚀 Computer Vision
 - 🚀 System Design with UML
 
 ## 👯 I’m looking to collaborate on
